@@ -7,3 +7,5 @@ Practicing git and github commands
 3. add a branch using " git checkout -b <branchname>
 
 4. use "git diff <branchname> " to compare changes
+
+5. create a github repo for your branch with " git push -u <samebranchname> (same as local branch name)
