@@ -8,4 +8,4 @@ Practicing git and github commands
 
 4. use "git diff <branchname> " to compare changes
 
-5. create a github repo for your branch with " git push -u <samebranchname> (same as local branch name)
+5. create a github repo for your branch with " git push -u origin <samebranchname> (same as local branch name)
