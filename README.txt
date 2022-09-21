@@ -50,3 +50,6 @@ GIT LOG
 . log will give you a list of commits with hash codes. use git reset <hashcode> to unstage after this commit
 ."git reset --hard <hashcode> will not only unstage, but remove as well
 
+FORKING
+.forking is creating a copy of a repository. it happens on github. 
+.you might fork a repo you do not have permissions in so that you can make your own changes.
