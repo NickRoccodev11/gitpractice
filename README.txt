@@ -1,4 +1,4 @@
-Practicing git and github commands
+Practicing git and github 
 
 This repo was created as a place to practice git commands.
 It also serves as a reference for useful commands 
