@@ -18,3 +18,6 @@ Practicing git and github commands
 
 9. if you have permissions, click "Merge Pull Request" 
 
+10. Once you have finished working in a branch, use " git branch -d <branchname>
+
+11. if a file has been previously added and is now modified, use " git commit -am "description"
