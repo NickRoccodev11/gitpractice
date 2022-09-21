@@ -24,3 +24,6 @@ Practicing git and github commands
 
 MERGE CONFLICTS:
 this is a change on conflictbranch
+this is a change on master, ok? 
+
+12. make sure to merge with master while working on a branch in order to stay up to date
