@@ -3,6 +3,12 @@ Practicing git and github
 This repo was created as a place to practice git commands.
 It also serves as a reference for useful commands 
 
+UNSTAGE A COMMIT!
+
+git reset HEAD~1
+the 1 can be replaced to reflect the number of commits youd like to go back
+
+
 INIT
 . create local repo with "git init"
 
